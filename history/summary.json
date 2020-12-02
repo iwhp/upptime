@@ -19,16 +19,16 @@
     "name": "NATURCOIFFEUR.EU",
     "url": "https://www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
-    "status": "down",
-    "uptime": "94.49%",
-    "time": 7907
+    "status": "up",
+    "uptime": "87.71%",
+    "time": 6716
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.31%",
+    "uptime": "99.26%",
     "time": 0
   }
 ]
