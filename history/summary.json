@@ -5,7 +5,15 @@
     "slug": "viewer-li",
     "status": "up",
     "uptime": "100.00%",
-    "time": 648
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 649,
+    "timeDay": 710,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649
   },
   {
     "name": "BALLERISTO.COM",
@@ -13,22 +21,46 @@
     "slug": "balleristo-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 984
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 985,
+    "timeDay": 1094,
+    "timeWeek": 985,
+    "timeMonth": 985,
+    "timeYear": 985
   },
   {
     "name": "NATURCOIFFEUR.EU",
     "url": "https://www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
-    "status": "up",
-    "uptime": "92.33%",
-    "time": 7107
+    "status": "down",
+    "uptime": "94.65%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "94.65%",
+    "time": 8586,
+    "timeDay": 7869,
+    "timeWeek": 8586,
+    "timeMonth": 8586,
+    "timeYear": 8586
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.49%",
-    "time": 0
+    "uptime": "97.85%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "64.63%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "97.85%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
