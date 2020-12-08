@@ -2,6 +2,7 @@
   {
     "name": "VIEWER.LI",
     "url": "https://www.viewer.li",
+    "icon": "https://favicons.githubusercontent.com/www.viewer.li",
     "slug": "viewer-li",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 742,
-    "timeDay": 1026,
+    "timeDay": 737,
     "timeWeek": 742,
     "timeMonth": 742,
-    "timeYear": 742
+    "timeYear": 742,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BALLERISTO.COM",
     "url": "https://www.balleristo.com",
+    "icon": "https://favicons.githubusercontent.com/www.balleristo.com",
     "slug": "balleristo-com",
     "status": "up",
     "uptime": "100.00%",
@@ -25,42 +28,60 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 1221,
-    "timeWeek": 1082,
-    "timeMonth": 1082,
-    "timeYear": 1082
+    "time": 1070,
+    "timeDay": 989,
+    "timeWeek": 1070,
+    "timeMonth": 1070,
+    "timeYear": 1070,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NATURCOIFFEUR.EU",
     "url": "https://www.naturcoiffeur.eu",
+    "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
-    "time": 6034,
-    "timeDay": 1158,
-    "timeWeek": 6034,
-    "timeMonth": 6034,
-    "timeYear": 6034
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 5712,
+    "timeDay": 871,
+    "timeWeek": 5712,
+    "timeMonth": 5712,
+    "timeYear": 5712,
+    "dailyMinutesDown": {
+      "2020-12-03": 33,
+      "2020-12-02": 129,
+      "2020-12-01": 62
+    }
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "95.17%",
+    "uptime": "94.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.19%",
-    "uptimeMonth": "81.17%",
-    "uptimeYear": "95.17%",
+    "uptimeWeek": "3.91%",
+    "uptimeMonth": "77.89%",
+    "uptimeYear": "94.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-08": 40,
+      "2020-12-07": 1440,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1006
+    }
   }
 ]
