@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 879,
-    "timeDay": 659,
-    "timeWeek": 682,
-    "timeMonth": 741,
-    "timeYear": 887,
+    "time": 878,
+    "timeDay": 739,
+    "timeWeek": 670,
+    "timeMonth": 743,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2021-08-30": 20,
       "2021-08-06": 45,
@@ -22,8 +22,7 @@
       "2021-04-22": 17,
       "2021-03-10": 15,
       "2020-12-22": 41,
-      "2020-12-21": 27,
-      "2020-12-19": 21
+      "2020-12-21": 27
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1121,
-    "timeDay": 1206,
-    "timeWeek": 1234,
-    "timeMonth": 1257,
+    "timeDay": 1136,
+    "timeWeek": 1187,
+    "timeMonth": 1259,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2021-09-10": 15
@@ -57,10 +56,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
-    "time": 2251,
-    "timeDay": 915,
-    "timeWeek": 1042,
-    "timeMonth": 1005,
+    "time": 2249,
+    "timeDay": 1114,
+    "timeWeek": 1037,
+    "timeMonth": 1012,
     "timeYear": 2091,
     "dailyMinutesDown": {
       "2021-10-19": 201,
@@ -95,8 +94,7 @@
       "2021-01-02": 197,
       "2020-12-22": 97,
       "2020-12-21": 87,
-      "2020-12-20": 15,
-      "2020-12-19": 120
+      "2020-12-20": 15
     }
   },
   {
@@ -105,7 +103,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.81%",
+    "uptime": "22.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -116,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-18": 60,
+      "2021-12-19": 61,
+      "2021-12-18": 1440,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
@@ -479,8 +478,7 @@
       "2020-12-23": 1440,
       "2020-12-22": 1440,
       "2020-12-21": 1440,
-      "2020-12-20": 1440,
-      "2020-12-19": 1440
+      "2020-12-20": 1440
     }
   }
 ]
