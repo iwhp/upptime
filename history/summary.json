@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 874,
-    "timeDay": 602,
-    "timeWeek": 663,
+    "time": 873,
+    "timeDay": 591,
+    "timeWeek": 655,
     "timeMonth": 732,
     "timeYear": 832,
     "dailyMinutesDown": {
@@ -29,15 +29,15 @@
     "icon": "https://favicons.githubusercontent.com/www.balleristo.com",
     "slug": "balleristo-com",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1124,
-    "timeDay": 1179,
-    "timeWeek": 1255,
-    "timeMonth": 1260,
+    "timeDay": 1230,
+    "timeWeek": 1261,
+    "timeMonth": 1265,
     "timeYear": 1128,
     "dailyMinutesDown": {
       "2021-09-10": 15
@@ -49,15 +49,15 @@
     "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
-    "time": 2228,
-    "timeDay": 912,
-    "timeWeek": 1030,
-    "timeMonth": 1027,
+    "time": 2226,
+    "timeDay": 953,
+    "timeWeek": 995,
+    "timeMonth": 1030,
     "timeYear": 1853,
     "dailyMinutesDown": {
       "2021-10-19": 201,
@@ -98,7 +98,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.40%",
+    "uptime": "22.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-27": 58,
+      "2021-12-28": 57,
+      "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
@@ -472,8 +473,7 @@
       "2021-01-01": 1440,
       "2020-12-31": 1440,
       "2020-12-30": 1440,
-      "2020-12-29": 1440,
-      "2020-12-28": 1440
+      "2020-12-29": 1440
     }
   }
 ]
