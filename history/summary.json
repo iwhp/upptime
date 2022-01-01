@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 872,
-    "timeDay": 643,
-    "timeWeek": 648,
-    "timeMonth": 716,
-    "timeYear": 832,
+    "time": 871,
+    "timeDay": 601,
+    "timeWeek": 632,
+    "timeMonth": 713,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2021-08-30": 20,
       "2021-08-06": 45,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1126,
-    "timeDay": 1260,
-    "timeWeek": 1297,
-    "timeMonth": 1274,
+    "timeDay": 1110,
+    "timeWeek": 1240,
+    "timeMonth": 1272,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2021-09-10": 15
@@ -49,16 +49,16 @@
     "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
-    "time": 2218,
-    "timeDay": 968,
-    "timeWeek": 1014,
+    "time": 2216,
+    "timeDay": 901,
+    "timeWeek": 973,
     "timeMonth": 1040,
-    "timeYear": 1854,
+    "timeYear": 1855,
     "dailyMinutesDown": {
       "2021-10-19": 201,
       "2021-10-11": 387,
@@ -98,7 +98,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.23%",
+    "uptime": "22.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-31": 59,
+      "2022-01-01": 60,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -472,8 +473,7 @@
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
-      "2021-01-02": 1440,
-      "2021-01-01": 1440
+      "2021-01-02": 1440
     }
   }
 ]
