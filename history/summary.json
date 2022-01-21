@@ -49,9 +49,9 @@
     "url": "https://www.naturcoiffeur.eu",
     "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "89.36%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "98.93%",
@@ -61,6 +61,7 @@
     "timeMonth": 991,
     "timeYear": 1773,
     "dailyMinutesDown": {
+      "2022-01-21": 0,
       "2022-01-17": 928,
       "2022-01-16": 145,
       "2021-10-19": 201,
@@ -110,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-21": 54,
+      "2022-01-21": 158,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
       "2022-01-18": 1440,
