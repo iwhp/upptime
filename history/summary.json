@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 855,
-    "timeDay": 612,
-    "timeWeek": 649,
-    "timeMonth": 656,
+    "timeDay": 737,
+    "timeWeek": 666,
+    "timeMonth": 654,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2022-01-25": 24,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 1124,
-    "timeWeek": 1187,
-    "timeMonth": 1230,
-    "timeYear": 1155,
+    "time": 1134,
+    "timeDay": 1420,
+    "timeWeek": 1196,
+    "timeMonth": 1234,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2021-09-10": 15
     }
@@ -51,15 +51,15 @@
     "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "98.92%",
-    "time": 2135,
-    "timeDay": 1105,
-    "timeWeek": 989,
-    "timeMonth": 991,
+    "time": 2133,
+    "timeDay": 1058,
+    "timeWeek": 991,
+    "timeMonth": 987,
     "timeYear": 1773,
     "dailyMinutesDown": {
       "2022-01-25": 23,
@@ -101,7 +101,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.91%",
+    "uptime": "20.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 59,
+      "2022-02-02": 58,
+      "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
@@ -475,8 +476,7 @@
       "2021-02-06": 1440,
       "2021-02-05": 1440,
       "2021-02-04": 1440,
-      "2021-02-03": 1440,
-      "2021-02-02": 1440
+      "2021-02-03": 1440
     }
   }
 ]
