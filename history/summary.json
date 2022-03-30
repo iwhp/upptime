@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 849,
-    "timeDay": 845,
-    "timeWeek": 945,
-    "timeMonth": 835,
+    "timeDay": 678,
+    "timeWeek": 822,
+    "timeMonth": 830,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2022-02-27": 17,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1146,
-    "timeDay": 1181,
-    "timeWeek": 1318,
-    "timeMonth": 1302,
+    "timeDay": 1180,
+    "timeWeek": 1328,
+    "timeMonth": 1298,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2021-09-10": 15
@@ -51,15 +51,15 @@
     "icon": "https://favicons.githubusercontent.com/www.naturcoiffeur.eu",
     "slug": "naturcoiffeur-eu",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.91%",
-    "time": 2026,
-    "timeDay": 947,
-    "timeWeek": 1035,
-    "timeMonth": 1151,
+    "time": 2024,
+    "timeDay": 898,
+    "timeWeek": 1094,
+    "timeMonth": 1144,
     "timeYear": 1780,
     "dailyMinutesDown": {
       "2022-03-22": 32,
@@ -103,10 +103,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.94%",
+    "uptime": "18.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 78,
+      "2022-03-30": 78,
+      "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
@@ -477,8 +478,7 @@
       "2021-04-03": 1440,
       "2021-04-02": 1440,
       "2021-04-01": 1440,
-      "2021-03-31": 1440,
-      "2021-03-30": 1440
+      "2021-03-31": 1440
     }
   }
 ]
