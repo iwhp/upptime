@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
-    "time": 811,
-    "timeDay": 2571,
-    "timeWeek": 919,
-    "timeMonth": 764,
+    "time": 810,
+    "timeDay": 690,
+    "timeWeek": 915,
+    "timeMonth": 767,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2022-05-05": 52,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1171,
-    "timeDay": 1280,
-    "timeWeek": 1254,
-    "timeMonth": 1328,
-    "timeYear": 1220,
+    "time": 1172,
+    "timeDay": 1513,
+    "timeWeek": 1278,
+    "timeMonth": 1341,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2022-04-27": 34,
       "2021-09-10": 15
@@ -55,12 +55,12 @@
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.89%",
-    "time": 1745,
-    "timeDay": 2623,
-    "timeWeek": 1191,
-    "timeMonth": 2865,
+    "time": 1744,
+    "timeDay": 876,
+    "timeWeek": 1177,
+    "timeMonth": 2461,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2022-04-19": 62,
@@ -105,7 +105,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "17.53%",
+    "uptime": "17.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -116,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-16": 84,
+      "2022-05-17": 97,
+      "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
@@ -479,8 +480,7 @@
       "2021-05-21": 1440,
       "2021-05-20": 1440,
       "2021-05-19": 1440,
-      "2021-05-18": 1440,
-      "2021-05-17": 1440
+      "2021-05-18": 1440
     }
   }
 ]
