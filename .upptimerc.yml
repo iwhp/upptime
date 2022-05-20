@@ -10,6 +10,10 @@ sites:
     url: https://www.balleristo.com
   - name: NATURCOIFFEUR.EU
     url: https://www.naturcoiffeur.eu
+  - name: ARDIMEDIA.COM
+    url: https://www.ardimedia.com
+  - name: BVD.LI
+    url: https://www.bvd.li
   - name: Secret Site
     url: $SECRET_SITE
 
