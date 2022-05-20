@@ -14,8 +14,8 @@ sites:
     url: https://www.ardimedia.com
   - name: BVD.LI
     url: https://www.bvd.li
-  - name: Secret Site
-    url: $SECRET_SITE
+  #- name: Secret Site
+  #  url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
