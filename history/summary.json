@@ -30,9 +30,9 @@
     "url": "https://www.balleristo.com",
     "icon": "https://favicons.githubusercontent.com/www.balleristo.com",
     "slug": "balleristo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -42,6 +42,7 @@
     "timeMonth": 1373,
     "timeYear": 1226,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-04-27": 34,
       "2021-09-10": 15
     }
@@ -111,7 +112,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 870,
-    "timeDay": 870,
+    "timeDay": 804,
     "timeWeek": 870,
     "timeMonth": 870,
     "timeYear": 870,
@@ -129,7 +130,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1063,
-    "timeDay": 1063,
+    "timeDay": 1077,
     "timeWeek": 1063,
     "timeMonth": 1063,
     "timeYear": 1063,
