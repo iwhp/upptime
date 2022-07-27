@@ -30,9 +30,9 @@
     "url": "https://www.balleristo.com",
     "icon": "https://favicons.githubusercontent.com/www.balleristo.com",
     "slug": "balleristo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -42,6 +42,7 @@
     "timeMonth": 1745,
     "timeYear": 1301,
     "dailyMinutesDown": {
+      "2022-07-27": 0,
       "2022-05-21": 22,
       "2022-04-27": 34,
       "2021-09-10": 15
