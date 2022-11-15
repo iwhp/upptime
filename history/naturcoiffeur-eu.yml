@@ -1,7 +1,7 @@
 url: https://www.naturcoiffeur.eu
-status: up
-code: 200
-responseTime: 1024
-lastUpdated: 2022-11-14T23:23:56.915Z
+status: down
+code: 500
+responseTime: 591
+lastUpdated: 2022-11-15T02:09:18.032Z
 startTime: Tue Dec 01 2020 07:14:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
