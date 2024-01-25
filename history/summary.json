@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 894,
-    "timeDay": 1259,
-    "timeWeek": 826,
-    "timeMonth": 753,
-    "timeYear": 963,
+    "time": 895,
+    "timeDay": 1143,
+    "timeWeek": 854,
+    "timeMonth": 764,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2023-09-23": 47,
       "2023-09-16": 31,
@@ -26,8 +26,7 @@
       "2023-05-25": 26,
       "2023-04-12": 46,
       "2023-03-26": 27,
-      "2023-03-22": 57,
-      "2023-01-25": 23
+      "2023-03-22": 57
     }
   },
   {
@@ -37,17 +36,16 @@
     "slug": "balleristo-com",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.49%",
-    "time": 1152,
-    "timeDay": 1741,
-    "timeWeek": 1050,
-    "timeMonth": 803,
-    "timeYear": 951,
+    "time": 1150,
+    "timeDay": 1649,
+    "timeWeek": 1035,
+    "timeMonth": 794,
+    "timeYear": 949,
     "dailyMinutesDown": {
-      "2024-01-24": 9,
       "2023-08-23": 582,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -78,10 +76,10 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.30%",
     "time": 1370,
-    "timeDay": 1366,
-    "timeWeek": 1094,
-    "timeMonth": 1160,
-    "timeYear": 1445,
+    "timeDay": 1186,
+    "timeWeek": 1111,
+    "timeMonth": 1159,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2024-01-20": 499,
       "2023-11-15": 18,
@@ -101,8 +99,7 @@
       "2023-03-22": 56,
       "2023-03-06": 51,
       "2023-02-15": 127,
-      "2023-02-14": 348,
-      "2023-01-25": 22
+      "2023-02-14": 348
     }
   },
   {
@@ -116,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 758,
-    "timeWeek": 615,
-    "timeMonth": 634,
-    "timeYear": 645,
+    "time": 667,
+    "timeDay": 803,
+    "timeWeek": 642,
+    "timeMonth": 635,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -134,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 1016,
-    "timeDay": 1064,
-    "timeWeek": 899,
-    "timeMonth": 913,
-    "timeYear": 1026,
+    "time": 1017,
+    "timeDay": 1336,
+    "timeWeek": 958,
+    "timeMonth": 917,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2023-09-23": 46,
       "2023-09-16": 30,
@@ -150,8 +147,7 @@
       "2023-05-18": 352,
       "2023-05-17": 856,
       "2023-04-12": 45,
-      "2023-03-22": 56,
-      "2023-01-25": 21
+      "2023-03-22": 56
     }
   }
 ]
