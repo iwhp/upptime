@@ -107,9 +107,9 @@
     "url": "https://www.ardimedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ardimedia.com.ico",
     "slug": "ardimedia-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +118,9 @@
     "timeWeek": 641,
     "timeMonth": 633,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "BVD.LI",
