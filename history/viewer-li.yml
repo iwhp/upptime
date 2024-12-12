@@ -1,7 +1,7 @@
 url: https://www.viewer.li
-status: up
-code: 200
-responseTime: 642
-lastUpdated: 2024-12-11T23:06:51.378Z
+status: down
+code: 504
+responseTime: 21545
+lastUpdated: 2024-12-12T22:23:36.892Z
 startTime: 2020-12-01T07:14:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
