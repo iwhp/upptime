@@ -90,18 +90,19 @@
     "url": "https://www.ardimedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ardimedia.com.ico",
     "slug": "ardimedia-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
+    "time": 663,
     "timeDay": 635,
     "timeWeek": 750,
     "timeMonth": 681,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2024-12-10": 19
     }
   },
